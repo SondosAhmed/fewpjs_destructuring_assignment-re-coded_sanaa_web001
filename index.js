@@ -51,6 +51,10 @@ const [red, orange,yellow,green,blue,indigo,violet]=colors;
 const [r, o,y,g,b,i,v]=colors;
 
 // 6. But wait! Indigo is now feeling *super* left out. Let's only assign indigo using indg.
+<<<<<<< HEAD
+=======
+const [r, o,y,g,b,indg,v]=colors;
+>>>>>>> e948459a94ad3c2d2e30dc06dfe4694a2a9a5e2d
 
 // Objects
 
